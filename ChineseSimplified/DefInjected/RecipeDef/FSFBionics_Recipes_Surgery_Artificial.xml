@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial Body Parts -->
+
+  <InstallFSFArtificialNose.label>安装人造鼻</InstallFSFArtificialNose.label>
+  <InstallFSFArtificialNose.description>安装人造鼻.</InstallFSFArtificialNose.description>
+  <InstallFSFArtificialNose.jobString>正在安装人造鼻.</InstallFSFArtificialNose.jobString>
+
+
+</LanguageData>

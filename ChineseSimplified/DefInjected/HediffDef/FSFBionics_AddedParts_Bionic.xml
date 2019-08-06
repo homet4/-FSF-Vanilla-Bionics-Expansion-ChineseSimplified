@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic Body Parts -->
+
+  <FSFBionicPowerArm.label>动力臂</FSFBionicPowerArm.label>
+  <FSFBionicPowerArm.comps.0.tools.0.label>爪</FSFBionicPowerArm.comps.0.tools.0.label>
+  <FSFBionicPowerArm.labelNoun>动力臂</FSFBionicPowerArm.labelNoun>
+
+  <FSFBionicJaw.label>仿生颌</FSFBionicJaw.label>
+  <FSFBionicJaw.comps.0.tools.0.label>牙齿</FSFBionicJaw.comps.0.tools.0.label>
+  <FSFBionicJaw.labelNoun>仿生颌</FSFBionicJaw.labelNoun>
+
+  <FSFBionicLung.label>仿生肺</FSFBionicLung.label>
+  <FSFBionicLung.labelNoun>仿生肺</FSFBionicLung.labelNoun>
+
+  <FSFBionicKidney.label>仿生肾</FSFBionicKidney.label>
+  <FSFBionicKidney.labelNoun>仿生肾</FSFBionicKidney.labelNoun>
+
+  <FSFBionicLiver.label>仿生肝</FSFBionicLiver.label>
+  <FSFBionicLiver.labelNoun>仿生肝</FSFBionicLiver.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Archotech Body Parts -->
+
+  <!--[Core] <ArchotechEye.label>远古科技眼</ArchotechEye.label>-->
+  <!--[Core] <ArchotechEye.labelNoun>远古科技眼</ArchotechEye.labelNoun>-->
+
+  <!--[Core] <ArchotechArm.label>远古科技臂</ArchotechArm.label>-->
+  <!--[Core] <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>-->
+  <!--[Core] <ArchotechArm.labelNoun>远古科技臂</ArchotechArm.labelNoun>-->
+
+  <!--[Core] <ArchotechLeg.label>远古科技腿</ArchotechLeg.label>-->
+  <!--[Core] <ArchotechLeg.labelNoun>远古科技腿</ArchotechLeg.labelNoun>-->
+
+
+  <!-- Archotech Body Parts -->
+
+  <FSFArchotechEar.label>远古科技耳</FSFArchotechEar.label>
+  <FSFArchotechEar.labelNoun>远古科技耳</FSFArchotechEar.labelNoun>
+
+  <FSFArchotechJaw.label>远古科技颌</FSFArchotechJaw.label>
+  <FSFArchotechJaw.comps.0.tools.0.label>牙齿</FSFArchotechJaw.comps.0.tools.0.label>
+  <FSFArchotechJaw.labelNoun>远古科技颌</FSFArchotechJaw.labelNoun>
+
+  <FSFArchotechSpine.label>远古科技脊椎</FSFArchotechSpine.label>
+  <FSFArchotechSpine.labelNoun>远古科技脊椎</FSFArchotechSpine.labelNoun>
+
+  <FSFArchotechHeart.label>远古科技心</FSFArchotechHeart.label>
+  <FSFArchotechHeart.labelNoun>远古科技心</FSFArchotechHeart.labelNoun>
+
+  <FSFArchotechLung.label>远古科技肺</FSFArchotechLung.label>
+  <FSFArchotechLung.labelNoun>远古科技肺</FSFArchotechLung.labelNoun>
+
+  <FSFArchotechKidney.label>远古科技肾</FSFArchotechKidney.label>
+  <FSFArchotechKidney.labelNoun>远古科技肾</FSFArchotechKidney.labelNoun>
+
+  <FSFArchotechLiver.label>远古科技肝</FSFArchotechLiver.label>
+  <FSFArchotechLiver.labelNoun>远古科技肝</FSFArchotechLiver.labelNoun>
+
+  <FSFArchotechStomach.label>远古科技胃</FSFArchotechStomach.label>
+  <FSFArchotechStomach.labelNoun>远古科技胃</FSFArchotechStomach.labelNoun>
+
+
+</LanguageData>

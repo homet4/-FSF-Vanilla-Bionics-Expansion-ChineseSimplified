@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Prosthetic Body Parts -->
+
+  <!--[Core] <Denture.label>义齿</Denture.label>-->
+  <!--[Core] <Denture.labelNoun>义齿</Denture.labelNoun>-->
+
+  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.labelNoun>简易的假腿</SimpleProstheticLeg.labelNoun>-->
+
+  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>-->
+  <!--[Core] <SimpleProstheticArm.labelNoun>简易的假臂</SimpleProstheticArm.labelNoun>-->
+
+  <!--[Core] <SimpleProstheticHeart.label>人工心脏</SimpleProstheticHeart.label>-->
+  <!--[Core] <SimpleProstheticHeart.labelNoun>人工心脏</SimpleProstheticHeart.labelNoun>-->
+
+  <!--[Core] <CochlearImplant.label>人工耳蜗</CochlearImplant.label>-->
+  <!--[Core] <CochlearImplant.labelNoun>人工耳蜗</CochlearImplant.labelNoun>-->
+
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label>义眼</FSFProstheticEye.label>
+  <FSFProstheticEye.labelNoun>义眼</FSFProstheticEye.labelNoun>
+
+  <FSFProstheticHand.label>假手</FSFProstheticHand.label>
+  <FSFProstheticHand.comps.0.tools.0.label>拳头</FSFProstheticHand.comps.0.tools.0.label>
+  <FSFProstheticHand.labelNoun>假手</FSFProstheticHand.labelNoun>
+
+  <FSFProstheticSpine.label>人造脊椎</FSFProstheticSpine.label>
+  <FSFProstheticSpine.labelNoun>人造脊椎</FSFProstheticSpine.labelNoun>
+
+  <FSFSimpleProstheticLung.label>简易的假肺</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.labelNoun>简易的假肺</FSFSimpleProstheticLung.labelNoun>
+
+  <FSFSimpleProstheticKidney.label>简易的假肾</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.labelNoun>简易的假肾</FSFSimpleProstheticKidney.labelNoun>
+
+  <FSFSimpleProstheticLiver.label>简易的假肝</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.labelNoun>简易的假肝</FSFSimpleProstheticLiver.labelNoun>
+
+  <FSFSimpleProstheticStomach.label>简易的假胃</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.labelNoun>简易的假胃</FSFSimpleProstheticStomach.labelNoun>
+
+
+</LanguageData>

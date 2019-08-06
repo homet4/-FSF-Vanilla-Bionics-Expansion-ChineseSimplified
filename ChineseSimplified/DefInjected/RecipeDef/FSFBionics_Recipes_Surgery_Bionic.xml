@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic Body Parts -->
+
+  <InstallFSFBionicPowerArm.label>安装动力臂</InstallFSFBionicPowerArm.label>
+  <InstallFSFBionicPowerArm.description>安装动力臂.</InstallFSFBionicPowerArm.description>
+  <InstallFSFBionicPowerArm.jobString>正在安装动力臂.</InstallFSFBionicPowerArm.jobString>
+
+  <InstallFSFBionicJaw.label>安装仿生颌</InstallFSFBionicJaw.label>
+  <InstallFSFBionicJaw.description>安装仿生颌.</InstallFSFBionicJaw.description>
+  <InstallFSFBionicJaw.jobString>正在安装仿生颌.</InstallFSFBionicJaw.jobString>
+
+  <InstallFSFBionicLung.label>安装仿生肺</InstallFSFBionicLung.label>
+  <InstallFSFBionicLung.description>安装仿生肺.</InstallFSFBionicLung.description>
+  <InstallFSFBionicLung.jobString>正在安装仿生肺.</InstallFSFBionicLung.jobString>
+
+  <InstallFSFBionicKidney.label>安装仿生肾</InstallFSFBionicKidney.label>
+  <InstallFSFBionicKidney.description>安装仿生肾.</InstallFSFBionicKidney.description>
+  <InstallFSFBionicKidney.jobString>正在安装仿生肾.</InstallFSFBionicKidney.jobString>
+
+  <InstallFSFBionicLiver.label>安装仿生肝</InstallFSFBionicLiver.label>
+  <InstallFSFBionicLiver.description>安装仿生肝.</InstallFSFBionicLiver.description>
+  <InstallFSFBionicLiver.jobString>正在安装仿生肝.</InstallFSFBionicLiver.jobString>
+
+
+</LanguageData>

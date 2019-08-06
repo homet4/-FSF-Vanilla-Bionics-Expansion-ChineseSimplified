@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic Body Parts -->
+
+  <FSFBionicPowerArm.label>动力臂</FSFBionicPowerArm.label>
+  <FSFBionicPowerArm.description>一个装有可伸缩动力爪刀片的先进人造手臂.静音微型伺服系统提供了强大的力量,而生物神经链提供了精确的控制.晶格尘埃愈合系统允许它从伤害中恢复.虽然</FSFBionicPowerArm.description>
+
+  <FSFBionicJaw.label>仿生颌</FSFBionicJaw.label>
+  <FSFBionicJaw.description>一个先进的人造下颌.静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所有方面都比生物颚好.</FSFBionicJaw.description>
+
+  <FSFBionicLung.label>仿生肺</FSFBionicLung.label>
+  <FSFBionicLung.description>一个先进人造肺. 静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所以方面都比生物肺好.</FSFBionicLung.description>
+
+  <FSFBionicKidney.label>仿生肾</FSFBionicKidney.label>
+  <FSFBionicKidney.description>一个先进的人造肾.静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所有方面都比生物肾好.</FSFBionicKidney.description>
+
+  <FSFBionicLiver.label>仿生肝</FSFBionicLiver.label>
+  <FSFBionicLiver.description>一个先进的人造肝. 静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复. 它几乎在所有方面都比生物肝好.</FSFBionicLiver.description>
+
+
+</LanguageData>

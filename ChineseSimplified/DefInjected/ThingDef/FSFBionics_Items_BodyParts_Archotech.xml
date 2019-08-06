@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Body Parts -->
+
+  <FSFArchotechEar.label>远古科技耳</FSFArchotechEar.label>
+  <FSFArchotechEar.description>一个由远古科技制造的先进人造耳.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechEar.description>
+
+  <FSFArchotechJaw.label>远古科技颌</FSFArchotechJaw.label>
+  <FSFArchotechJaw.description>一个由远古科技制造的先进人造颌.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechJaw.description>
+
+  <FSFArchotechSpine.label>远古科技脊柱</FSFArchotechSpine.label>
+  <FSFArchotechSpine.description>一个由远古科技制造的先进人造脊柱.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechSpine.description>
+
+  <FSFArchotechHeart.label>远古科技心</FSFArchotechHeart.label>
+  <FSFArchotechHeart.description>一个由远古科技制造的先进人造心.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechHeart.description>
+
+  <FSFArchotechLung.label>远古科技肺</FSFArchotechLung.label>
+  <FSFArchotechLung.description>一个由远古科技制造的先进人造肺.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechLung.description>
+
+  <FSFArchotechKidney.label>远古科技肾</FSFArchotechKidney.label>
+  <FSFArchotechKidney.description>一个由远古科技制造的先进人造肾.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechKidney.description>
+
+  <FSFArchotechLiver.label>远古科技肝</FSFArchotechLiver.label>
+  <FSFArchotechLiver.description>一个由远古科技制造的先进人造肝.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechLiver.description>
+
+  <FSFArchotechStomach.label>远古科技胃</FSFArchotechStomach.label>
+  <FSFArchotechStomach.description>一个由远古科技制造的先进人造胃.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechStomach.description>
+
+
+</LanguageData>

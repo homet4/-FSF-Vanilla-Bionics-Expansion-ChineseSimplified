@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label></FSFProstheticEye.label>
+  <FSFProstheticEye.description></FSFProstheticEye.description>
+
+  <FSFProstheticHand.label>假手</FSFProstheticHand.label>
+  <FSFProstheticHand.description>一个假手.虽然它缺乏神经接口,但其复杂的内部关节排列使得它能够非常令人信服地模仿自然运动.尽管如此,它还是不如一只真正的手.</FSFProstheticHand.description>
+
+  <FSFProstheticSpine.label>人造脊椎</FSFProstheticSpine.label>
+  <FSFProstheticSpine.description>一个人造脊锥.没有原装的有效,但是总比什么都没有的好.</FSFProstheticSpine.description>
+
+  <FSFSimpleProstheticLung.label>简易的假肺</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.description>一个简单的假肺.没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticLung.description>
+
+  <FSFSimpleProstheticKidney.label>简易的假肾</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.description>一个简单的假肾.没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticKidney.description>
+
+  <FSFSimpleProstheticLiver.label>简易的假肝</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.description>一个简单的假肝.没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticLiver.description>
+
+  <FSFSimpleProstheticStomach.label>简易的假胃</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.description>一个简单的假胃.没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticStomach.description>
+
+
+</LanguageData>

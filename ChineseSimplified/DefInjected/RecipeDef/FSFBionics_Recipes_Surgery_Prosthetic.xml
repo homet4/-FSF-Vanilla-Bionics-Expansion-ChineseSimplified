@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic Body Parts -->
+
+  <InstallFSFProstheticEye.label>安装义眼</InstallFSFProstheticEye.label>
+  <InstallFSFProstheticEye.description>安装义眼.</InstallFSFProstheticEye.description>
+  <InstallFSFProstheticEye.jobString>正在安装义眼.</InstallFSFProstheticEye.jobString>
+
+  <InstallFSFProstheticHand.label>安装假手</InstallFSFProstheticHand.label>
+  <InstallFSFProstheticHand.description>安装假手.</InstallFSFProstheticHand.description>
+  <InstallFSFProstheticHand.jobString>正在安装假手.</InstallFSFProstheticHand.jobString>
+
+  <InstallFSFProstheticSpine.label>安装人造脊椎</InstallFSFProstheticSpine.label>
+  <InstallFSFProstheticSpine.description>安装人造脊椎.</InstallFSFProstheticSpine.description>
+  <InstallFSFProstheticSpine.jobString>正在安装人造脊椎.</InstallFSFProstheticSpine.jobString>
+
+  <InstallFSFSimpleProstheticLung.label>安装简易的假肺</InstallFSFSimpleProstheticLung.label>
+  <InstallFSFSimpleProstheticLung.description>安装简易的假肺.</InstallFSFSimpleProstheticLung.description>
+  <InstallFSFSimpleProstheticLung.jobString>正在安装简易的假肺.</InstallFSFSimpleProstheticLung.jobString>
+
+  <InstallFSFSimpleProstheticKidney.label>安装简易的假肾</InstallFSFSimpleProstheticKidney.label>
+  <InstallFSFSimpleProstheticKidney.description>安装简易的假肾.</InstallFSFSimpleProstheticKidney.description>
+  <InstallFSFSimpleProstheticKidney.jobString>正在安装简易的假肾.</InstallFSFSimpleProstheticKidney.jobString>
+
+  <InstallFSFSimpleProstheticLiver.label>安装简易的假肝</InstallFSFSimpleProstheticLiver.label>
+  <InstallFSFSimpleProstheticLiver.description>安装简易的假肝.</InstallFSFSimpleProstheticLiver.description>
+  <InstallFSFSimpleProstheticLiver.jobString>正在安装简易的假肝.</InstallFSFSimpleProstheticLiver.jobString>
+
+  <InstallFSFSimpleProstheticStomach.label>安装简易的假胃</InstallFSFSimpleProstheticStomach.label>
+  <InstallFSFSimpleProstheticStomach.description>安装简易的假胃.</InstallFSFSimpleProstheticStomach.description>
+  <InstallFSFSimpleProstheticStomach.jobString>正在安装简易的假胃.</InstallFSFSimpleProstheticStomach.jobString>
+
+
+</LanguageData>

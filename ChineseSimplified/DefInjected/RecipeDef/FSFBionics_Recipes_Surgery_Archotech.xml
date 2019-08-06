@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Body Parts -->
+
+  <InstallFSFArchotechEar.label>安装远古科技耳</InstallFSFArchotechEar.label>
+  <InstallFSFArchotechEar.description>安装远古科技耳.</InstallFSFArchotechEar.description>
+  <InstallFSFArchotechEar.jobString>正在安装远古科技耳.</InstallFSFArchotechEar.jobString>
+
+  <InstallFSFArchotechJaw.label>安装远古科技颌</InstallFSFArchotechJaw.label>
+  <InstallFSFArchotechJaw.description>安装远古科技颌.</InstallFSFArchotechJaw.description>
+  <InstallFSFArchotechJaw.jobString>正在安装远古科技颌.</InstallFSFArchotechJaw.jobString>
+
+  <InstallFSFArchotechSpine.label>安装远古科技脊椎</InstallFSFArchotechSpine.label>
+  <InstallFSFArchotechSpine.description>安装远古科技脊椎.</InstallFSFArchotechSpine.description>
+  <InstallFSFArchotechSpine.jobString>正在安装远古科技脊椎.</InstallFSFArchotechSpine.jobString>
+
+  <InstallFSFArchotechHeart.label>安装远古科技心</InstallFSFArchotechHeart.label>
+  <InstallFSFArchotechHeart.description>安装远古科技心.</InstallFSFArchotechHeart.description>
+  <InstallFSFArchotechHeart.jobString>正在安装远古科技心.</InstallFSFArchotechHeart.jobString>
+
+  <InstallFSFArchotechLung.label>安装远古科技肺</InstallFSFArchotechLung.label>
+  <InstallFSFArchotechLung.description>安装远古科技肺.</InstallFSFArchotechLung.description>
+  <InstallFSFArchotechLung.jobString>正在安装远古科技肺.</InstallFSFArchotechLung.jobString>
+
+  <InstallFSFArchotechKidney.label>安装远古科技肾</InstallFSFArchotechKidney.label>
+  <InstallFSFArchotechKidney.description>安装远古科技肾.</InstallFSFArchotechKidney.description>
+  <InstallFSFArchotechKidney.jobString>正在安装远古科技肾.</InstallFSFArchotechKidney.jobString>
+
+  <InstallFSFArchotechLiver.label>安装远古科技肝</InstallFSFArchotechLiver.label>
+  <InstallFSFArchotechLiver.description>安装远古科技肝.</InstallFSFArchotechLiver.description>
+  <InstallFSFArchotechLiver.jobString>正在安装远古科技肝.</InstallFSFArchotechLiver.jobString>
+
+  <InstallFSFArchotechStomach.label>安装远古科技胃</InstallFSFArchotechStomach.label>
+  <InstallFSFArchotechStomach.description>安装远古科技胃.</InstallFSFArchotechStomach.description>
+  <InstallFSFArchotechStomach.jobString>正在安装远古科技胃.</InstallFSFArchotechStomach.jobString>
+
+
+</LanguageData>
